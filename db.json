@@ -1,0 +1,80 @@
+
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Dental Sticks",
+        "imageSrc": "food123.png",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$25",
+        "color": "Green"
+      },
+      {
+        "id": 2,
+        "name": "Nutrience Sub Zero",
+        "href": "#",
+        "imageSrc": "food22.png",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$45",
+        "color": "Black"
+      },
+      {
+        "id": 3,
+        "name": "Healthy Breeds",
+        "href": "#",
+        "imageSrc": "food33.png",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$10",
+        "color": "Grey"
+      },
+      {
+        "id": 4,
+        "name": "Royal Canin",
+        "href": "#",
+        "imageSrc": "food44.png",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$14",
+        "color": "Gold"
+      },
+      {
+        "id": 5,
+        "name": "Pedigree",
+        "href": "#",
+        "imageSrc": "food55.png",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$24",
+        "color": "Yellow"
+      },
+      {
+        "id": 6,
+        "name": "Toy",
+        "href": "#",
+        "imageSrc": "food66.png",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$5",
+        "color": "Orange"
+      },
+      {
+        "id": 7,
+        "name": "Heart Care",
+        "href": "#",
+        "imageSrc": "food99.png",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$35",
+        "color": "White"
+      },
+      {
+        "id": 8,
+        "name": "Adult Chicken",
+        "href": "#",
+        "imageSrc": "food77.png",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$10",
+        "color": "White"
+      }
+  
+    ]
+  
+  
+      
+}
